@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ahmadalkp
-- 👀 I’m interested in you
-- 🌱 I’m currently learning angular
-- 📫 How to reach me could send the dm to my instagram ahmadalkp
+<h1>Hi 👋, I’m Ahmad Kahfi</h1>
+<h3>💻 I'm full stuck web developer now, hehe</h3>
 
-<!---
-ahmadalkp/ahmadalkp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in you
+- 🌱 I’m currently learning <strong>angular, react, java spring boot</strong>
+- 📫 How to reach me ahmadalkp@gmail.com
