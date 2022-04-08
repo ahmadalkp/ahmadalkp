@@ -1,5 +1,4 @@
-👋 Hi, I’m @ahmadalkp
-
+- 👋 Hi, I’m @ahmadalkp
 - 👀 I’m interested in you
 - 🌱 I’m currently learning angular
 - 📫 How to reach me could send the dm to my instagram ahmadalkp
