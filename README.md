@@ -1,5 +1,5 @@
-<h2 align="center">Hi :hear_no_evil:	, I’m Ahmad Kahfi</h2>
-<h4 align="center">💻 I'm full stuck web developer now, hehe</h4>
+<h1 align="center">Hi :hear_no_evil:	, I’m Ahmad Kahfi</h1>
+<h3 align="center">💻 I'm full stuck web developer now ;)</h3>
 <br>
 
 - 👀 I’m interested in you
