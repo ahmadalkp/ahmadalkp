@@ -2,12 +2,12 @@
  
 <a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
 
-- 🎓 I'm an IT graduate 
+- 🎓 I graduated in Information Technology 
 - 💻 I’m a Web Developer at [Astra Life](https://www.astralife.co.id/) 
-- ⭐ I love programming, sport, and you <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ⭐ I love programming, sport, and you <img src="https://c.tenor.com/U45Q8YaJzBUAAAAd/moti-hearts.gif" width="30">
 - 📫 How to reach me ahmadalkp@gmail.com
 
-#### Languages and Tools 
+#### Languages and Framework 
 <p>
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JS">
   <img height="50" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TS">
